@@ -28,8 +28,8 @@ set(2)
 puts"----"
 #eachを使って計算出力
 sum =0
-(1..10).each do |num|
-  sum+=num
+(1..10).each do |suuti|
+  sum+=suuti
 end
 puts sum
 
